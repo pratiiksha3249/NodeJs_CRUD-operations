@@ -1,0 +1,18 @@
+npm init -y
+->for install package.json
+
+express is a fremwork of nodeJs used to create route
+
+cors
+->used when we connect frontEnd to backend so dont occures error
+
+nodemon install
+->for automaticaly run code when we create a small changes
+npm install -D nodemon
+
+Devdependanci
+-inside devpependanci its is used for only devlopment
+its not goes to production
+
+depependanci
+->its all goes for production
